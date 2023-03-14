@@ -17,7 +17,7 @@ subtitle: "A free HTML5 agency template"
 url: "http://ndrewtl.github.io" # the base hostname & protocol for your site
 baseurl: ""
 cover: "/assets/cover.png"
-logo: "/assets/logo.png"
+logo: "img/gem-agile-logo-sans-serif.png"
 
 # Build settings
 markdown: kramdown

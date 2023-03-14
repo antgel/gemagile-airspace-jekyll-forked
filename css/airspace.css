@@ -75,6 +75,11 @@ header .navbar {
 header .navbar-brand {
   padding-top: 5px;
 }
+
+.navbar-brand img {
+  width: 260px;
+}
+
 header .navbar-default {
   background: none;
   border: 0px;
